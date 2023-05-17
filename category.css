@@ -1,0 +1,35 @@
+h2{
+   text-align: center;
+   font-size: 2rem;
+   text-shadow: 2px 2px rgb(112, 107, 107); 
+   color: rgb(78, 0, 0);
+}
+.category-selection{
+    position: relative;
+    width: 400px;
+    height: 440px;
+    background: transparent;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, .5);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    top: 90px;
+    left: 500px
+   /* overflow: hidden; */
+}
+
+
+body{
+  
+  align-items: center; justify-content: center;
+  min-height: 100vh;
+  background-image: url(https://thumbs.dreamstime.com/b/quiz-game-show-retro-background-vintage-trivia-night-poster-pub-marketing-design-vector-illustration-yellow-text-blue-quiz-199430214.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+}
